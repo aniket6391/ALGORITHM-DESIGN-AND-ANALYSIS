@@ -20,7 +20,7 @@ int main(){
     char s2[20]="Sharma";
 
     strcat(s1,s2);
-    cout<<s1<<s2;
+    cout<<s1;
     return 0;
 
 }
