@@ -7,5 +7,7 @@ int main(){
 
     cout<<"Enter exponent: ";
     cin>>exp; 
+
+    cout<<"Power: "<<pow(base,exp);
     return 0;
 }
