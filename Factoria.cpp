@@ -9,4 +9,6 @@ int main(){
         fact=fact*i;
     }
     cout<<"Factorial: "<<fact;
+    return 0;
+
 }
