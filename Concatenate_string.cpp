@@ -1,0 +1,13 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    string first,last;
+    cout<<"Enter first name: ";
+    cin>>first;
+    cout<<"Enter last name: ";
+    cin>>last;
+    string fullName=first+" "+last;
+    cout<<"Full name: "<<fullName;
+    return 0;
+
+}
