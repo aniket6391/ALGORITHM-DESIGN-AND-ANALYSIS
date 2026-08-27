@@ -8,7 +8,7 @@ int val=35;
 for(int i=0;i<n;i--){
     arr[i]=arr[i-1];
 }
-arr[pos]=value;
+arr[pos]=val;
 n++;
 }
 cout<<"After insertion: ";
