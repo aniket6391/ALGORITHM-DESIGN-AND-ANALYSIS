@@ -13,5 +13,5 @@ return 0;
 }
 }
 cout<<"Element not found";
-return 0;
+
 }
