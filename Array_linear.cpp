@@ -6,7 +6,7 @@ int main(){
     int key=3;
     for(int i=0;i<n;i++){
         if(arr[i]==key){
-            cout<<"Element found at index: ";<<i;
+            cout<<"Element found at index: "<<i;
             return 0;
 
         }
