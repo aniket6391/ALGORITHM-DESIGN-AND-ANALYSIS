@@ -8,7 +8,7 @@ int n=7;
 int largest=arr[0];
 for(int i=1;i<n;i++){
     if(arr[i]>largest){
-        lagest=arr[i];
+        largest=arr[i];
     }
 }
 cout<<"largest element: "<<largest;
