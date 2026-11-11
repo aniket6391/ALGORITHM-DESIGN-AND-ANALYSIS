@@ -1,5 +1,4 @@
-#include<iosteam>
-#include<string>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
 string str="Aniket";
